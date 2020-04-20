@@ -1,0 +1,12 @@
+C:\Users\Shovon\source\repos\kiron\bin\Debug\kiron.exe.config
+C:\Users\Shovon\source\repos\kiron\bin\Debug\kiron.exe
+C:\Users\Shovon\source\repos\kiron\bin\Debug\kiron.pdb
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.csprojAssemblyReference.cache
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.Properties.Resources.resources
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.csproj.GenerateResource.cache
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.exe
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.pdb
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.LoginPage.resources
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.MenuPage.resources
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.MultiplePayment.resources
+C:\Users\Shovon\source\repos\kiron\obj\Debug\kiron.PaymentPage.resources
